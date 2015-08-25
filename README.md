@@ -1,0 +1,1 @@
+chromium-source-browsing.chrome--browser--resources--software-rendering-list
